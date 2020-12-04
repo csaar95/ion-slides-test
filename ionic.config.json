@@ -1,0 +1,7 @@
+{
+  "name": "ion-slides-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
